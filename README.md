@@ -1,5 +1,5 @@
 ### Frontier AI systems have surpassed the self-replicating red line
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2412.12140)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.12140-b31b1b.svg)](https://arxiv.org/abs/2412.12140)
 
 **Arxiv Link**: [https://arxiv.org/abs/2412.12140](https://arxiv.org/abs/2412.12140)
 
